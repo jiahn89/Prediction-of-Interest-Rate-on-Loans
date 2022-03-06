@@ -1,5 +1,5 @@
 # Prediction-of-Interest-Rate-on-Loans
 <br>
-Objective: To predict interest rate on loans
+__Objective:__ To predict interest rate on loans
 <br>
-Data: Loan details, user credit details
+__Data:__ Loan details, user credit details
